@@ -1,0 +1,46 @@
+# Core FastAPI framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# Data validation and settings
+pydantic==2.5.0
+
+# Computer Vision and Image Processing
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+Pillow==10.1.0
+
+# Machine Learning and Deep Learning
+torch==2.1.1+cu118
+torchvision==0.16.1+cu118
+torchaudio==2.1.1+cu118
+numpy==1.24.3
+scikit-image==0.21.0
+scipy==1.11.4
+
+# Image processing utilities
+imageio==2.31.6
+matplotlib==3.7.2
+
+# LangChain for AI diagnosis
+langchain==0.0.340
+langchain-openai==0.0.2
+openai==1.3.7
+
+# PDF processing for pathology database
+PyPDF2==3.0.1
+pdfplumber==0.9.0
+
+# Structure from Motion (SFM) dependencies
+scikit-learn==1.3.2
+
+# Utilities
+typing-extensions==4.8.0
+python-multipart==0.0.6
+
+# Optional: for better performance
+psutil==5.9.6
+
+# Development and debugging (optional)
+ipython==8.17.2
+jupyter==1.0.0

@@ -199,6 +199,5 @@ cython_debug/
 *.jpeg
 *.pkl
 cache/
-*.txt
 .env
 *.faiss
