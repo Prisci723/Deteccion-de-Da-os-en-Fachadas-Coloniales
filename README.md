@@ -51,7 +51,7 @@ El software está entrenado para identificar **10 tipos específicos** de daños
 
 ### 🔄 Flujo de Procesamiento
 
-![flujo de procesamiento](images_readme/image.png)
+![flujo de procesamiento](recursos_readme/image.png)
 
 ## 🚀 Instalación y Configuración
 
@@ -295,6 +295,19 @@ Recomendaciones
 - **Diagnóstico IA**: 5-10 segundos
 
 
+## Uso de la aplicación:
+
+![Uso de la aplicación](recursos_readme/ejemplo_de_uso.mp4)
+
+## Documentos del proyecto:
+
+Artículo científico:
+
+![Artículo Cietífico](Documentos/Articulo_Cientifico_Deteccion_de_daños_Fachadas_coloniales.pdf)
+
+Diapositivas del Proyecto:
+
+![Diapositivas del Proyecto](Documentos/presentacion_diapositivas_proyecto.pdf)
 
 ## 📄 Licencia
 
