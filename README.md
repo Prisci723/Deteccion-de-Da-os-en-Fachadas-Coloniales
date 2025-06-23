@@ -1,5 +1,8 @@
 # Deteccion de Daños en Fachadas Coloniales
 Detección de Daños Exteriores en Edificaciones Patrimoniales de Sucre por Visión por Computadora
+Nombre: Priscila Ximena Arduz Limpias
+Carrera: Ingeniería en Ciencias de la Computación
+Universidad: Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca
 
 
 ## 📋 Explicación del Proyecto
