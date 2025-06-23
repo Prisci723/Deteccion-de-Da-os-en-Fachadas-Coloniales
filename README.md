@@ -77,11 +77,8 @@ pip install -r requirements.txt
 # 4. Configurar variables de entorno
 export OPENAI_API_KEY="tu-api-key-aqui"
 
-# 5. Descargar modelos pre-entrenados
-python download_models.py
-
-# 6. Ejecutar servidor
-uvicorn app:app --host 0.0.0.0 --port 8000
+# 5. Ejecutar servidor
+uvicorn app:app 
 ```
 
 ### Frontend (Flutter)
