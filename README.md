@@ -297,7 +297,7 @@ Recomendaciones
 
 ## Uso de la aplicación:
 
-![Uso de la aplicación](recursos_readme/ejemplo_de_uso.mp4)
+![Video ejemplo de uso de la interfaz](recursos_readme/ejemplo_de_uso.mp4)
 
 ## Documentos del proyecto:
 
